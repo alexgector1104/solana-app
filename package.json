@@ -1,8 +1,9 @@
 {
   "dependencies": {
+    "@digitak/esrun": "^3.2.25",
+    "@solana-developers/node-helpers": "^1.0.4",
     "@solana/web3.js": "^1.87.1",
-    "bs58": "^5.0.0"
-  },
-  "main": "sol_web3.js",
-  "type": "module"
+    "bs58": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
 }
