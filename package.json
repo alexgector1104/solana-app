@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.87.1",
+    "bs58": "^5.0.0"
+  },
+  "main": "sol_web3.js",
+  "type": "module"
+}
